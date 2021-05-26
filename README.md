@@ -15,3 +15,8 @@ $ ```head -n 5 h1b_kaggle.csv | python group_by_mapper.py 5 6 | sort -k1,1 | pyt
 Command Line arguments for ```group_by_mapper``` are ```key_column``` and ```aggregate_column```
 
 $ ```python run.py group_by 5 6 h1b_kaggle.csv```
+
+Group Members:
+- Ankush Choubey
+- Suyog Gadhave
+- Omkar Dubas
